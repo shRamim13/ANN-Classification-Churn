@@ -1,0 +1,6 @@
+/.env
+/hyperparametertuningann.ipynb
+/logs
+/prediction.ipynb
+/salaryregression.ipynb
+/venv
